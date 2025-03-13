@@ -25,7 +25,7 @@ The project follows this blueprint:
 - **Storage**: Image stored in AWS ECR.
 - **Configuration**: Defined in YAML manifests.
 
-![KubernetesProject EKS Blueprint: eu-west-2](Kidagram.png)
+![KubernetesProject EKS Blueprint: eu-west-2](Kdiagram.png)
 
 ## Files
 
